@@ -26,6 +26,7 @@
 		F1F74DCA263E5B0900D7F350 /* gitxcode5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = gitxcode5; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1F74DCD263E5B0900D7F350 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F1F74DD5263E5B1C00D7F350 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		F1F74DD8263E61C100D7F350 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		F1F74DC1263E5B0900D7F350 = {
 			isa = PBXGroup;
 			children = (
+				F1F74DD8263E61C100D7F350 /* README.md */,
 				F1F74DD5263E5B1C00D7F350 /* .gitignore */,
 				F1F74DCC263E5B0900D7F350 /* gitxcode5 */,
 				F1F74DCB263E5B0900D7F350 /* Products */,
